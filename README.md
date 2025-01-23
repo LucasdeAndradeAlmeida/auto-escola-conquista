@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Autoescola Conquista - Plataforma Web
 
-## Getting Started
+O projeto **Autoescola Conquista** é uma aplicação web desenvolvida com Next.js, com foco em fornecer uma experiência completa e intuitiva para quem deseja tirar a Carteira Nacional de Habilitação (CNH). A plataforma foi construída para otimizar a jornada do usuário, com destaque para as seções de serviços, funcionalidades e contato.
 
-First, run the development server:
+## Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Hero Section**: A seção principal apresenta uma introdução envolvente sobre a autoescola, destacando a alta taxa de aprovação e a garantia de sucesso. Há botões de call-to-action para iniciar o processo de matrícula e também para facilitar o contato via WhatsApp.
+  
+- **Serviços**: A plataforma oferece três principais serviços:
+  - *Primeira Habilitação*: Curso completo para quem deseja tirar a primeira CNH.
+  - *Reciclagem*: Curso de reciclagem para condutores que precisam renovar seus conhecimentos.
+  - *Aulas Particulares*: Aulas extras personalizadas para reforçar o aprendizado.
+  
+  Cada serviço é apresentado com ícones e descrições claras.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Diferenciais**: A seção de características destaca os pontos fortes da autoescola, como instrutores qualificados, frota moderna, horários flexíveis, simulador avançado, e muito mais, permitindo aos usuários entender por que escolher a *Autoescola Conquista* é a melhor opção.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Depoimentos**: A plataforma inclui depoimentos de alunos satisfeitos, mostrando a experiência real de quem já passou pela autoescola. Estes depoimentos são exibidos com uma avaliação em estrelas, aumentando a credibilidade.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Formulário de Contato**: Um formulário de contato foi implementado para que os usuários possam enviar dúvidas ou agendar uma visita. Além disso, são fornecidos detalhes de contato, como endereço e telefone.
 
-## Learn More
+## Tecnologias Utilizadas
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js**: Framework utilizado para a construção da aplicação, proporcionando uma experiência de renderização rápida e otimizada.
+- **Lucide-React**: Ícones utilizados para representar serviços e características de forma visualmente atraente.
+- **React Components**: Componentes reutilizáveis foram criados para manter a estrutura e a consistência visual da plataforma.
+- **Shadcn**: Componentes totalmentes modernos, funcionais e responsivos.
+- **Tailwind CSS**: Framework de estilização para design responsivo e customizável.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Objetivo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+O objetivo deste projeto é criar uma plataforma web funcional, acessível e de fácil navegação para a *Autoescola Conquista*. A aplicação visa otimizar a experiência do usuário, desde a visualização de serviços até o contato direto com a escola, aumentando a conversão de visitantes em alunos matriculados.
 
-## Deploy on Vercel
+## Instalação
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Para rodar o projeto localmente, siga os passos abaixo:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/autoescola-conquista.git
+
+   cd autoescola-conquista
+    npm install
+   http://localhost:3000
+   
+## Contribuição
+Se você deseja contribuir com o projeto, fique à vontade para abrir um pull request. Se tiver sugestões ou encontrar problemas, por favor, abra uma issue.
+
