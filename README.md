@@ -26,7 +26,6 @@ Acesse a versão publicada do projeto:
   </a>
 </p>**
 
-> Adicione aqui imagens ou GIFs da interface quando desejar.
 
 ---
 
