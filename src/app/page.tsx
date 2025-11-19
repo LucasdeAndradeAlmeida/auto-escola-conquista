@@ -11,7 +11,6 @@ import {
   Star,
   Users,
   ShieldCheck,
-  Clock,
   Award,
 } from "lucide-react";
 import { ContactForm } from "@/components/contact-form";
